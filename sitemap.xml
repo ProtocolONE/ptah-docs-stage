@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://docs.stg.pay.super.com/docs/section/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/section/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://docs.stg.pay.super.com/docs/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/</loc>
   </url>
   
   <url>
-    <loc>https://docs.stg.pay.super.com/</loc>
+    <loc>http://docs.stg.ptah.super.com/</loc>
   </url>
   
   <url>
-    <loc>https://docs.stg.pay.super.com/docs/quick-start/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/quick-start/</loc>
   </url>
   
   <url>
-    <loc>https://docs.stg.pay.super.com/docs/header-footer/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/header-footer/</loc>
   </url>
   
   <url>
-    <loc>https://docs.stg.pay.super.com/docs/settings/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/settings/</loc>
   </url>
   
 </urlset>
