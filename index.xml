@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ptah Documentation</title>
+    <link>https://docs.stg.pay.super.com/</link>
+    <description>Recent content on Ptah Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://docs.stg.pay.super.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://docs.stg.pay.super.com/docs/section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.stg.pay.super.com/docs/section/</guid>
+      <description>куда нажать, чтобы создать порядок секций настройки секции - фон настройки слота добавить элемент -&amp;gt; ссылка на элементы</description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://docs.stg.pay.super.com/docs/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.stg.pay.super.com/docs/quick-start/</guid>
+      <description>Quick Start Next steps SEO Settings  Going live checklist
+You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
+ Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub The PaySuper Checkout Form, the JS SDK and even the server are available as a source code on our GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://docs.stg.pay.super.com/docs/header-footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.stg.pay.super.com/docs/header-footer/</guid>
+      <description>Header and Footer Header
+Small section for external navigation
+   Next steps Testing the Checkout
+Verify that your integration with PaySuper Checkout works correctly. Our offered test cards can be used to create payments that produce defined responses for you to test your integration code.
+ Going live checklist
+You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
+ Questions?</description>
+    </item>
+    
+    <item>
+      <title>Settings</title>
+      <link>https://docs.stg.pay.super.com/docs/settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.stg.pay.super.com/docs/settings/</guid>
+      <description>Settings Next steps Testing the Checkout
+Verify that your integration with PaySuper Checkout works correctly. Our offered test cards can be used to create payments that produce defined responses for you to test your integration code.
+ Going live checklist
+You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
+ Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.</description>
+    </item>
+    
+  </channel>
+</rss>
