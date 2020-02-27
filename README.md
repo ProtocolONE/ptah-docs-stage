@@ -1,1 +1,0 @@
-# ptah-docs-stage
