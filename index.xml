@@ -11,12 +11,71 @@
     
     
     <item>
-      <title></title>
-      <link>http://docs.stg.ptah.super.com/docs/section/</link>
+      <title>Align content</title>
+      <link>http://docs.stg.ptah.super.com/docs/align/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.stg.ptah.super.com/docs/section/</guid>
-      <description>куда нажать, чтобы создать порядок секций настройки секции - фон настройки слота добавить элемент -&amp;gt; ссылка на элементы</description>
+      <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
+      <description> Align content Section alignment Slot alignment </description>
+    </item>
+    
+    <item>
+      <title>Background Properties</title>
+      <link>http://docs.stg.ptah.super.com/docs/background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/background/</guid>
+      <description> Background properties ГАЛЕРЕЯ с разными вариантами фонов: цвет, градиент, картинка, видео, цвет поверх картинки. Под картинкой пример свойств, которые нужно установить. Можно сделать разворачивающиеся Expand элементы, вместо галереи.
+1. Set a background image of a section Open the section&amp;rsquo;s background properties on the left panel by clicking on the image icon at the end of the section&amp;rsquo;s title.
+2. Page background: - Background color - Background Image (Full page scroll, Background fill, Fixed while scrolling) - Background Video - Image For Palette  </description>
+    </item>
+    
+    <item>
+      <title>Create a section</title>
+      <link>http://docs.stg.ptah.super.com/docs/add-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/add-section/</guid>
+      <description>Create a section Ptah builder lets you construct landing pages for games using a series of sections which contain different web-elements. On the left panel you can select desired sections and their properties. After you make a change the preview area will update and you can edit a content of the inserted section.
+Each section is designed to emphasize a different aspect of your game.
+You can build your page from a wide range of pre-designed sections:</description>
+    </item>
+    
+    <item>
+      <title>Edit a section content</title>
+      <link>http://docs.stg.ptah.super.com/docs/edit-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/edit-section/</guid>
+      <description> Edit a section content 1. Добавить слот. Свойства слота. ССЫЛКА на раздел background и alignment Уникальные свойства слота, если есть.  2. Добавить элемент в слот. Список элементов и их свойства Button Text Icon with text Image Video Available platforms Age restrictions Social networks Spacer Timer Iframe  Next steps 1. Indents and size 2. Align content 3. Background image and video  </description>
+    </item>
+    
+    <item>
+      <title>Edit indents and size</title>
+      <link>http://docs.stg.ptah.super.com/docs/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
+      <description> Edit indents and size of web-elements Section indents Slot indents Section size 1 vh is equivalent To 1% of the height of the browser window  Slot size width (columns)  Element indents Element size Resizing tool (синяя обводка вокруг элемента)  </description>
+    </item>
+    
+    <item>
+      <title>Headings</title>
+      <link>http://docs.stg.ptah.super.com/docs/headings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/headings/</guid>
+      <description> Headings Edit fonts </description>
+    </item>
+    
+    <item>
+      <title>Payments</title>
+      <link>http://docs.stg.ptah.super.com/docs/payments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/payments/</guid>
+      <description> PaySuper Payment Form PaySuper Checkout creates a secure PaySuper-hosted form that lets you collect payments with just a few lines of code. The Checkout Form loads near instantly and is designed to boost your paying conversion rate.
+Try now See how the Checkout Form looks and feels BUTTON Test Payment  User flow https://docs.pay.super.com/docs/payments/quick-start/  After the payment Receipts Payouts  Payment Token Payment Links Game key </description>
     </item>
     
     <item>
@@ -25,37 +84,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/quick-start/</guid>
-      <description>Quick Start Next steps SEO Settings  Going live checklist
-You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
- Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub The PaySuper Checkout Form, the JS SDK and even the server are available as a source code on our GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Settings</title>
-      <link>http://docs.stg.ptah.super.com/docs/header-footer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/header-footer/</guid>
-      <description>Header and Footer Header
-Small section for external navigation
-   Next steps Testing the Checkout
-Verify that your integration with PaySuper Checkout works correctly. Our offered test cards can be used to create payments that produce defined responses for you to test your integration code.
- Going live checklist
-You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
- Questions?</description>
-    </item>
-    
-    <item>
-      <title>Settings</title>
-      <link>http://docs.stg.ptah.super.com/docs/settings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/settings/</guid>
-      <description>Settings Next steps Testing the Checkout
-Verify that your integration with PaySuper Checkout works correctly. Our offered test cards can be used to create payments that produce defined responses for you to test your integration code.
- Going live checklist
-You can inspect this checklist before going live to ensure you&amp;rsquo;ve implemented all the significant setup steps.
- Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.</description>
+      <description>Quick Start Try now demo  1. Создаем новый сайт на дашборде. Либо выбираем готовый шаблон ССЫЛКИ на шаблоны, либо создаем все элементы из библиотеки готовых блоков, которые можно кастомизировать АНИМАЦИЯ GIF.  2. Добавляем секции. ССЫЛКА на раздел про создание секции. СПИСОК ссылок для настройки секции и слотов Recipes: Our Recipes will help you try out some of the advanced features of Ptah Builder: -Integration with analytics platforms -Site customization with a custom HTML code -Applying a custom font  3.</description>
     </item>
     
   </channel>

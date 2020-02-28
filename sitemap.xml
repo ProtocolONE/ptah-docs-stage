@@ -3,12 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://docs.stg.ptah.super.com/docs/section/</loc>
-    <priority>0</priority>
+    <loc>http://docs.stg.ptah.super.com/docs/align/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/background/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/add-section/</loc>
   </url>
   
   <url>
     <loc>http://docs.stg.ptah.super.com/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/edit-section/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/size/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/headings/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/payments/</loc>
   </url>
   
   <url>
@@ -17,14 +40,6 @@
   
   <url>
     <loc>http://docs.stg.ptah.super.com/docs/quick-start/</loc>
-  </url>
-  
-  <url>
-    <loc>http://docs.stg.ptah.super.com/docs/header-footer/</loc>
-  </url>
-  
-  <url>
-    <loc>http://docs.stg.ptah.super.com/docs/settings/</loc>
   </url>
   
 </urlset>
