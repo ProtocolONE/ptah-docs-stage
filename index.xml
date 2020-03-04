@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ptah Documentation</title>
+    <title>Ptah Landing Page Builder Documentation on Ptah Documentation</title>
     <link>http://docs.stg.ptah.super.com/</link>
-    <description>Recent content on Ptah Documentation</description>
+    <description>Recent content in Ptah Landing Page Builder Documentation on Ptah Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,12 +11,32 @@
     
     
     <item>
+      <title></title>
+      <link>http://docs.stg.ptah.super.com/docs/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/glossary/</guid>
+      <description> Terms:  Ptah Landing Page Builder = Ptah Builder = Ptah - the open-source landing page builder for video games Sections Library Elements Library  Ptah Editor:  the Navigation Panel - the sidebar on the left with the settings menu the Settings Panel - the sidebar on the left with the Sections list and the elements properties  Ptah Dashboard:  the landing pages list the Create new landing button  </description>
+    </item>
+    
+    <item>
+      <title>Add a section</title>
+      <link>http://docs.stg.ptah.super.com/docs/add-section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/add-section/</guid>
+      <description>Using ready-made sections The Ptah Builder allows you to create and adjust the content of your web-page and automatically saves all changes.
+The sidebar on the left gives you access to all web-elements of your landing page. We call this the Settings Panel. The Settings Panel allows you to view and adjust the Properties of any object you have already added. You can learn more about objects properties.
+After you make a change on the Settings Panel the content on the right on the Preview Area will be updated.</description>
+    </item>
+    
+    <item>
       <title>Align content</title>
       <link>http://docs.stg.ptah.super.com/docs/align/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
-      <description> Align content Section alignment Slot alignment </description>
+      <description> Align content Section alignment Block alignment </description>
     </item>
     
     <item>
@@ -31,23 +51,14 @@
     </item>
     
     <item>
-      <title>Create a section</title>
-      <link>http://docs.stg.ptah.super.com/docs/add-section/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/add-section/</guid>
-      <description>Create a section Ptah builder lets you construct landing pages for games using a series of sections which contain different web-elements. On the left panel you can select desired sections and their properties. After you make a change the preview area will update and you can edit a content of the inserted section.
-Each section is designed to emphasize a different aspect of your game.
-You can build your page from a wide range of pre-designed sections:</description>
-    </item>
-    
-    <item>
       <title>Edit a section content</title>
       <link>http://docs.stg.ptah.super.com/docs/edit-section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/edit-section/</guid>
-      <description> Edit a section content 1. Добавить слот. Свойства слота. ССЫЛКА на раздел background и alignment Уникальные свойства слота, если есть.  2. Добавить элемент в слот. Список элементов и их свойства Button Text Icon with text Image Video Available platforms Age restrictions Social networks Spacer Timer Iframe  Next steps 1. Indents and size 2. Align content 3. Background image and video  </description>
+      <description>On-page editing The Ptah Builder makes editing pretty intuitive. You can change the content and its properties right on the page in the Preview Area and everything will be automatically saved.
+On hover over a Block or an Element you can view a functional icons: Edit Properties, .
+TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками   Adjust block properties TODO ??? уникальные св-ва блока - это же тоже самое, что св-ва секции, только вынесены отдельно.</description>
     </item>
     
     <item>
@@ -61,10 +72,10 @@ You can build your page from a wide range of pre-designed sections:</description
     
     <item>
       <title>Headings</title>
-      <link>http://docs.stg.ptah.super.com/docs/headings/</link>
+      <link>http://docs.stg.ptah.super.com/docs/fonts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.stg.ptah.super.com/docs/headings/</guid>
+      <guid>http://docs.stg.ptah.super.com/docs/fonts/</guid>
       <description> Headings Edit fonts </description>
     </item>
     
@@ -84,7 +95,9 @@ Try now See how the Checkout Form looks and feels BUTTON Test Payment  User flow
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/quick-start/</guid>
-      <description>Quick Start Try now demo  1. Создаем новый сайт на дашборде. Либо выбираем готовый шаблон ССЫЛКИ на шаблоны, либо создаем все элементы из библиотеки готовых блоков, которые можно кастомизировать АНИМАЦИЯ GIF.  2. Добавляем секции. ССЫЛКА на раздел про создание секции. СПИСОК ссылок для настройки секции и слотов Recipes: Our Recipes will help you try out some of the advanced features of Ptah Builder: -Integration with analytics platforms -Site customization with a custom HTML code -Applying a custom font  3.</description>
+      <description>Quick Start 1. Регистрация 2. Создаем новый landing page на дашборде. From your dashboard, you can access, create, and manage your projects.
+Start from scratch or from one of our 100+ templates
+Ptah lets you start your design from a completely blank canvas, so there’s no limit to your creativity. That way, you can design a truly custom website—instead of relying on a template built by someone who doesn’t know you or your company.</description>
     </item>
     
   </channel>

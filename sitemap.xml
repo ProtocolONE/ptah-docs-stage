@@ -3,15 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://docs.stg.ptah.super.com/docs/glossary/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/add-section/</loc>
+  </url>
+  
+  <url>
     <loc>http://docs.stg.ptah.super.com/docs/align/</loc>
   </url>
   
   <url>
     <loc>http://docs.stg.ptah.super.com/docs/background/</loc>
-  </url>
-  
-  <url>
-    <loc>http://docs.stg.ptah.super.com/docs/add-section/</loc>
   </url>
   
   <url>
@@ -27,7 +32,7 @@
   </url>
   
   <url>
-    <loc>http://docs.stg.ptah.super.com/docs/headings/</loc>
+    <loc>http://docs.stg.ptah.super.com/docs/fonts/</loc>
   </url>
   
   <url>
