@@ -62,15 +62,6 @@ TODO КАРТИНКА лучше слайдер для секции, блока 
     </item>
     
     <item>
-      <title>Edit indents and size</title>
-      <link>http://docs.stg.ptah.super.com/docs/size/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
-      <description> Edit indents and size of web-elements Section indents Slot indents Section size 1 vh is equivalent To 1% of the height of the browser window  Slot size width (columns)  Element indents Element size Resizing tool (синяя обводка вокруг элемента)  </description>
-    </item>
-    
-    <item>
       <title>Headings</title>
       <link>http://docs.stg.ptah.super.com/docs/fonts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +89,17 @@ Try now See how the Checkout Form looks and feels BUTTON Test Payment  User flow
       <description>Quick Start 1. Регистрация 2. Создаем новый landing page на дашборде. From your dashboard, you can access, create, and manage your projects.
 Start from scratch or from one of our 100+ templates
 Ptah lets you start your design from a completely blank canvas, so there’s no limit to your creativity. That way, you can design a truly custom website—instead of relying on a template built by someone who doesn’t know you or your company.</description>
+    </item>
+    
+    <item>
+      <title>Size and spacing</title>
+      <link>http://docs.stg.ptah.super.com/docs/size/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
+      <description>Spacing on the page Creating extra spaces around elements makes analysing a landing page content more comfortable. Spacing helps your users increase focus on your content, and in turn, increases conversions.
+TODO картинка  The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. Look at the the one of the Ptah section with the default spacing:
+TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать</description>
     </item>
     
   </channel>
