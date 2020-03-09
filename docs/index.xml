@@ -31,15 +31,6 @@ After you make a change on Settings Panel the content on the right on Preview Ar
     </item>
     
     <item>
-      <title>Align content</title>
-      <link>http://docs.stg.ptah.super.com/docs/align/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
-      <description> Align content Section alignment Block alignment </description>
-    </item>
-    
-    <item>
       <title>Background Properties</title>
       <link>http://docs.stg.ptah.super.com/docs/background/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +39,16 @@ After you make a change on Settings Panel the content on the right on Preview Ar
       <description> Background properties ГАЛЕРЕЯ с разными вариантами фонов: цвет, градиент, картинка, видео, цвет поверх картинки. Под картинкой пример свойств, которые нужно установить. Можно сделать разворачивающиеся Expand элементы, вместо галереи.
 1. Set a background image of a section Open the section&amp;rsquo;s background properties on the left panel by clicking on the image icon at the end of the section&amp;rsquo;s title.
 2. Page background: - Background color - Background Image (Full page scroll, Background fill, Fixed while scrolling) - Background Video - Image For Palette  </description>
+    </item>
+    
+    <item>
+      <title>Content alignment</title>
+      <link>http://docs.stg.ptah.super.com/docs/align/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
+      <description>Content alignment Ptah Sections is designed for responsive landing pages. You can customise the alignment of elements in a section&amp;rsquo;s blocks.
+To set the alignment of a block&amp;rsquo;s content open the block properties by hover over it on Preview Area and click the Settings icon at the top-left.  Flow elements into a row or column To display elements of a block in one line click on the Row Direction icon.</description>
     </item>
     
     <item>
