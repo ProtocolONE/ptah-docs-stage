@@ -63,15 +63,6 @@ TODO КАРТИНКА лучше слайдер для секции, блока 
     </item>
     
     <item>
-      <title>Headings</title>
-      <link>http://docs.stg.ptah.super.com/docs/fonts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/fonts/</guid>
-      <description> Headings Edit fonts </description>
-    </item>
-    
-    <item>
       <title>Payments</title>
       <link>http://docs.stg.ptah.super.com/docs/payments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -102,6 +93,17 @@ Ptah lets you start your design from a completely blank canvas, so there’s no 
 TODO картинка  The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
 TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
  Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>http://docs.stg.ptah.super.com/docs/fonts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/fonts/</guid>
+      <description>Typography The landing page design must be on-brand. It&amp;rsquo;s recommended to use from 1 to 3 typefaces. If you have more than 3 typefaces it can make your page chaotic.
+Once you have chosen the right typeface, typography makes your landing page appealing and readable.
+Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.</description>
     </item>
     
   </channel>

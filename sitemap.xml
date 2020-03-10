@@ -28,10 +28,6 @@
   </url>
   
   <url>
-    <loc>http://docs.stg.ptah.super.com/docs/fonts/</loc>
-  </url>
-  
-  <url>
     <loc>http://docs.stg.ptah.super.com/docs/payments/</loc>
   </url>
   
@@ -45,6 +41,10 @@
   
   <url>
     <loc>http://docs.stg.ptah.super.com/docs/size/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/fonts/</loc>
   </url>
   
 </urlset>
