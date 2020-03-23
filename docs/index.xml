@@ -167,7 +167,7 @@ TODO image Иллюстрация заменить эту картинку на 
       <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
       <description>Spacing on the page You can create extra space around elements to helps your users focus on the content, what may increases conversions.
 TODO image иллюстрация заменить картинку на такую же, но в нашем стиле   The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
-TODO image иллюстрация заменить картинку на такую же, но в нашем стиле</description>
+TODO image иллюстрация заменить картинку на такую же, но в нашем стиле   Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
     </item>
     
     <item>
