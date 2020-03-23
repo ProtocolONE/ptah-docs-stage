@@ -3,8 +3,9 @@
 
 <head>
   <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="og:title" content="How to setup Google Tags" />
-<meta property="og:description" content="How to setup Google Tags Next steps   TODO Integration Mailchimp TODO Integration Google Analytics TODO Accept payments  Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Ptah is the easy-to-use open-source landing page builder for video games." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><meta property="og:title" content="How to set up Google Tag Manager" />
+<meta property="og:description" content="How to set up Google Tag Manager on your landing page The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page. Thus you can update the contents from the Tag Manager user interface.
+When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data: monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://docs.stg.ptah.super.com/docs/integrations-gt/" />
 
@@ -13,16 +14,17 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="http://docs.stg.ptah.super.com/dark-form.png"/>
 
-<meta name="twitter:title" content="How to setup Google Tags"/>
-<meta name="twitter:description" content="How to setup Google Tags Next steps   TODO Integration Mailchimp TODO Integration Google Analytics TODO Accept payments  Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Ptah is the easy-to-use open-source landing page builder for video games."/>
-<title>How to setup Google Tags | Ptah Documentation</title>
+<meta name="twitter:title" content="How to set up Google Tag Manager"/>
+<meta name="twitter:description" content="How to set up Google Tag Manager on your landing page The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page. Thus you can update the contents from the Tag Manager user interface.
+When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data: monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events."/>
+<title>How to set up Google Tag Manager | Ptah Documentation</title>
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 
 
 <link rel="stylesheet" href="/book.min.343270af3f7a01683d94762f9b671c6eb940933f3238c66b6bfc99821e7a3131.css" integrity="sha256-NDJwrz96AWg9lHYvm2ccbrlAkz8yOMZra/yZgh56MTE=">
 
 
-<script defer src="/search.min.3f0561dec59184cf5d26653ca930036d71b15a0b30fc7a3db2c210c656f692e8.js" integrity="sha256-PwVh3sWRhM9dJmU8qTADbXGxWgsw/Ho9ssIQxlb2kug="></script>
+<script defer src="/search.min.f15bf4d69648e39f9e79d2d47def91ab8c7b6592d6f36eb4ee05e9cb76e1f174.js" integrity="sha256-8Vv01pZI45&#43;eedLUfe&#43;Rq4x7ZZLW82607gXpy3bh8XQ="></script>
 
 <script type="application/javascript">
 var doNotTrack = false;
@@ -91,14 +93,14 @@ https://github.com/alex-shpak/hugo-book
 <ul>
 <li><a href="/docs/seo/">Search Engine Optimization</a></li>
 <li><a href="/docs/cookies/">Cookies</a></li>
-<li><a href="/docs/customization/">Javascipt and CSS</a></li>
+<li><a href="/docs/customization/">Custom styles</a></li>
 </ul></li>
 <li><strong>INTEGRATIONS</strong>
 
 <ul>
-<li><a href="/docs/integrations-gt/"class=active>Google Tag</a></li>
-<li><a href="/docs/integrations-ga/">Google Analytics</a></li>
 <li><a href="/docs/integrations-mailchimp/">Mailchimp</a></li>
+<li><a href="/docs/integrations-ga/">Google Analytics</a></li>
+<li><a href="/docs/integrations-gt/"class=active>Google Tag</a></li>
 </ul></li>
 </ul>
 
@@ -126,15 +128,59 @@ https://github.com/alex-shpak/hugo-book
   <label for="menu-control">
     <img src="/svg/menu.svg" alt="Menu" />
   </label>
-  <strong>How to setup Google Tags</strong>
+  <strong>How to set up Google Tag Manager</strong>
 </header>
 
       
 <article class="markdown">
 
-<h1 id="how-to-setup-google-tags">How to setup Google Tags</h1>
+<h1 id="how-to-set-up-google-tag-manager-on-your-landing-page">How to set up Google Tag Manager on your landing page</h1>
 
 <hr />
+
+<p>The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page.
+Thus you can update the contents from the Tag Manager user interface.</p>
+
+<p>When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data:
+monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events.</p>
+
+<p>To start, you&rsquo;ll need a Google Analytics account.</p>
+
+<h2 id="create-a-google-tag-account-for-you-landing-page">Create a Google Tag account for you landing page</h2>
+
+<hr />
+
+<ul>
+<li>Log into your Google Analytics account and go to <a href="https://tagmanager.google.com/">Google Tag Manager</a>.</li>
+<li>Add a new account for your landing page and accept the Google Tag Manager Terms of Service Agreement.
+<figure>
+    <img src="/images/img10.png"/> 
+</figure>
+</li>
+</ul>
+
+<h2 id="connect-your-google-tag-account-with-ptah">Connect your Google Tag account with Ptah</h2>
+
+<hr />
+
+<ul>
+<li>Click the Settings icon on the top menu. Choose the Integrations tab and click the Google Tag icon.</li>
+<li>In the GTM container ID field, enter your GTM container ID from your Google Tag account.</li>
+<li>Click Apply.</li>
+</ul>
+
+<p>TODO image интерфейс настройки GT с введенным container ID</p>
+
+<h2 id="create-a-tag-with-google-analytics">Create a tag with Google Analytics</h2>
+
+<hr />
+
+<p>You can configure a lot of tags depending on the events and triggers.
+Anytime <a href="https://support.google.com/tagmanager/answer/6106716">an event</a> is registered by Google Tag Manager, <a href="https://support.google.com/tagmanager/topic/7679108">event triggers</a> are evaluated and tags are fired accordingly.</p>
+
+<p>For example, this video shows how to notify Google Analytics anytime someone views your landing page:</p>
+
+<iframe width="400" height="230" src="https://www.youtube.com/embed/MmhDzlkillU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr />
 
@@ -144,9 +190,9 @@ https://github.com/alex-shpak/hugo-book
 
 
 <ul>
-<li>TODO Integration Mailchimp</li>
-<li>TODO Integration Google Analytics</li>
-<li>TODO Accept payments</li>
+<li><a href="/docs/integrations-mailchimp/">Connect with Mailchimp</a></li>
+<li><a href="/docs/integrations-ga/">Connect with Google Analytics</a></li>
+<li><a href="/docs/payments/">Setting up a payment system</a></li>
 </ul>
 
 <hr />
@@ -187,7 +233,12 @@ https://github.com/alex-shpak/hugo-book
   <aside class="book-toc level-true fixed">
     <nav id="TableOfContents">
 <ul>
-<li><a href="#how-to-setup-google-tags">How to setup Google Tags</a></li>
+<li><a href="#how-to-set-up-google-tag-manager-on-your-landing-page">How to set up Google Tag Manager on your landing page</a>
+<ul>
+<li><a href="#create-a-google-tag-account-for-you-landing-page">Create a Google Tag account for you landing page</a></li>
+<li><a href="#connect-your-google-tag-account-with-ptah">Connect your Google Tag account with Ptah</a></li>
+<li><a href="#create-a-tag-with-google-analytics">Create a tag with Google Analytics</a></li>
+</ul></li>
 </ul>
 </nav>
   </aside>

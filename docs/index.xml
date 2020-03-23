@@ -12,20 +12,20 @@
     
     <item>
       <title></title>
-      <link>http://docs.stg.ptah.super.com/docs/customization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/customization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://docs.stg.ptah.super.com/docs/glossary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/glossary/</guid>
       <description> Terms:  Ptah Landing Page Builder = Ptah Builder = Ptah - the open-source landing page builder for video games Sections Library Elements Library  Ptah Editor:  Navigation Panel - a sidebar on the left with the settings menu Settings Panel - a sidebar on the left with the Sections list and the elements properties Preview Area - a preview area for content the Resizing tool rectangle the Settings icon  Ptah Dashboard:  the landing pages list the Create new landing button  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://docs.stg.ptah.super.com/docs/release/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/release/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,13 +50,24 @@ The sidebar on the left gives you access to all web-elements of your landing pag
     </item>
     
     <item>
+      <title>Connect with Google Analytics</title>
+      <link>http://docs.stg.ptah.super.com/docs/integrations-ga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/integrations-ga/</guid>
+      <description>How to use Google Analytics on your landing page Through Ptah Integrations you can connect your site to Google Analytics to view the landing page report, to track your landing page conversion and other useful reports.
+To start, you&amp;rsquo;ll need a Google Analytics account.
+ Click the Settings icon on the top menu. Choose the Integrations tab and click the Google Analytics icon. In the Google site tag field, enter your tracking ID for your landing page.</description>
+    </item>
+    
+    <item>
       <title>Connect with Mailchimp</title>
       <link>http://docs.stg.ptah.super.com/docs/integrations-mailchimp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/integrations-mailchimp/</guid>
-      <description>Connect with Mailchimp Through Ptah Integrations you can collect email addresses and grow your subscriber list using integration with Mailchimp as an email marketing service.
-Connect to Mailchimp At first, you need to allow Mailchimp service connect to your landing page in Ptah Builder.
+      <description>How to use Mailchimp on your landing page Through Ptah Integrations you can collect email addresses and grow your subscriber list using integration with Mailchimp as an email marketing service.
+To start, you need to allow Mailchimp service connect to your landing page in Ptah Builder.
 Click the Settings icon on the top menu. Choose the Integrations tab and click the Mailchimp icon.
  Enter your Mailchimp login and password to log into Mailchimp.</description>
     </item>
@@ -78,8 +89,20 @@ To set the alignment of a block&amp;rsquo;s content open the block properties by
       
       <guid>http://docs.stg.ptah.super.com/docs/cookies/</guid>
       <description>Cookies Your web page has to follow with GDPR and you can set up some options on Ptah Settings.
-The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.  TODO image как выглядит нотификация на сайте
+The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.  TODO image иллюстрация как выглядит нотификация на сайте
 To inform your visitor that you are using Cookies and receive their approval, click the Settings icon on the top menu and choose the Cookies tab.</description>
+    </item>
+    
+    <item>
+      <title>Customise CSS and Javascript</title>
+      <link>http://docs.stg.ptah.super.com/docs/customization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/customization/</guid>
+      <description>Customise your styles In Ptah Builder you can customise any web element of your landing page.
+Ptah makes it easy to edit page content without coding
+Moreover, you can add custom styles using the CSS editor or embed an external scripts using the Javascript editor in Ptah Settings:
+ To add a custom code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add Js Scripts).</description>
     </item>
     
     <item>
@@ -90,25 +113,17 @@ To inform your visitor that you are using Cookies and receive their approval, cl
       <guid>http://docs.stg.ptah.super.com/docs/edit-section/</guid>
       <description>On-page editing The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
 On hover over a Block or an Element, you can view an icon to set properties at the top-left corner.
-TODO КАРТИНКА лучше слайдер для секции, блока и элемента с этими иконками   Adjust block properties Set up the size and spacing.</description>
+TODO image интерфейс или иллюстрация с этими иконками для секции, блока и элемента   Adjust block properties Set up the size and spacing.</description>
     </item>
     
     <item>
-      <title>How to setup Google Analytics</title>
-      <link>http://docs.stg.ptah.super.com/docs/integrations-ga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://docs.stg.ptah.super.com/docs/integrations-ga/</guid>
-      <description>How to setup Google Analytics Next steps   TODO Integration Mailchimp TODO Integration Google Tags TODO Accept payments  Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Ptah is the easy-to-use open-source landing page builder for video games.</description>
-    </item>
-    
-    <item>
-      <title>How to setup Google Tags</title>
+      <title>How to set up Google Tag Manager</title>
       <link>http://docs.stg.ptah.super.com/docs/integrations-gt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/integrations-gt/</guid>
-      <description>How to setup Google Tags Next steps   TODO Integration Mailchimp TODO Integration Google Analytics TODO Accept payments  Questions? Sales Our salespeople are pleasant and friendly. Leave your contact details, and we&amp;rsquo;ll be back to you in no time.  Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Ptah is the easy-to-use open-source landing page builder for video games.</description>
+      <description>How to set up Google Tag Manager on your landing page The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page. Thus you can update the contents from the Tag Manager user interface.
+When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data: monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events.</description>
     </item>
     
     <item>
@@ -141,7 +156,7 @@ Ptah lets you start your design from a completely blank canvas, so there’s no 
       <description>SEO checklist for your gaming landing page The best SEO strategies help you to increase organic traffic and rankings in search engines.
 First of all, you should always keep in touch that your website is designed for humans who use search engines.
 As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.
-TODO картинка   Ptah helps you to optimize landing page perfectly.</description>
+TODO image Иллюстрация заменить эту картинку на такую же, но в нашем стиле   Ptah helps you to optimize landing page perfectly.</description>
     </item>
     
     <item>
@@ -151,9 +166,8 @@ TODO картинка   Ptah helps you to optimize landing page perfectly.</desc
       
       <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
       <description>Spacing on the page You can create extra space around elements to helps your users focus on the content, what may increases conversions.
-TODO картинка   The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
-TODO картинка с выделенными отступами, чтобы показать как нужно их правильно делать
-  Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
+TODO image иллюстрация заменить картинку на такую же, но в нашем стиле   The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
+TODO image иллюстрация заменить картинку на такую же, но в нашем стиле</description>
     </item>
     
     <item>
