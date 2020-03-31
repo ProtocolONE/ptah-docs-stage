@@ -45,10 +45,9 @@ The sidebar on the left gives you access to all web-elements of your landing pag
       
       <guid>http://docs.stg.ptah.super.com/docs/background/</guid>
       <description>Background properties There are several ways to fill a background:
- Color fill Gradient Image background Fullscreen video background Color overlay Fixed and parallax background image  You can apply custom settings for the background of a block, section or page.
+ Color fill Gradient Background image Fullscreen video background Color overlay Fixed and parallax background image Repeat an image for all sections Remove a background image  You can apply custom settings for the background of a block, section or page.
 How to edit a section background properties
-To edit a section background, open Settings Panel to adjust Properties in two ways:
- click the Background icon on hover over the section in Preview Area.</description>
+To edit a section background, you can click the Background icon on hover over the section in Preview Area or click the same icon on Settings Panel at the end of the section&amp;rsquo;s title.</description>
     </item>
     
     <item>
@@ -104,7 +103,7 @@ To inform your visitor that you are using Cookies and receive their approval, cl
       <description>Customise your styles In Ptah Builder you can customise any web element of your landing page.
 Ptah makes it easy to edit page content without coding
 Moreover, you can add custom styles using the CSS editor or embed an external scripts using the Javascript editor in Ptah Settings:
- To add a custom code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add Js Scripts).</description>
+ To add a custom code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add Js Scripts tab).</description>
     </item>
     
     <item>
@@ -125,6 +124,18 @@ On hover over a Block or an Element, you can view an icon to set properties at t
       <guid>http://docs.stg.ptah.super.com/docs/integrations-gt/</guid>
       <description>How to set up Google Tag Manager on your landing page The Google Tag Manager container snippet (a tag) is a small piece of JavaScript and non-JavaScript code that you paste into your page. Thus you can update the contents from the Tag Manager user interface.
 When you use Google Tag Manager in conjunction with Google Analytics, you’re able to collect a lot of data: monitoring form submissions, tracking how people arrive at your site, clicking on certain links, scroll tracking and a ton of other events.</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>http://docs.stg.ptah.super.com/docs/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/images/</guid>
+      <description>Images  Placing an image to a section Styling a button with images Background image Recommended image parameters  Placing an image to a section Images are crucial to your landing page design.
+To upload an image from your computer or to link to an external resource of the image follow this instruction.
+TODO интерфейс с примером картинки, например продукты
+Styling a button with images Style your buttons with a background image and an image on hover.</description>
     </item>
     
     <item>
@@ -180,6 +191,17 @@ TODO image иллюстрация заменить картинку на так�
       <description>Typography The landing page design must be on-brand. It&amp;rsquo;s recommended to use from 1 to 3 typefaces. If you have more than 3 typefaces it can make your page chaotic.
 Once you have chosen the right typeface, typography makes your landing page appealing and readable.
 Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>http://docs.stg.ptah.super.com/docs/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/videos/</guid>
+      <description>Videos  Embed a video to a section Fullscreen video background Recommended video parameters  Embed a video to a section Learn how to embed a YouTube video or any MP4 file.
+TODO интерфейс с примером видео с YouTube в первой секции после хедера
+Fullscreen video background To add a dynamic visual effect to your landing page, place a background video of your game. Background video plays on loop without sound.</description>
     </item>
     
   </channel>

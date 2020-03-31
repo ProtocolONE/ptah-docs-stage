@@ -53,6 +53,10 @@
   </url>
   
   <url>
+    <loc>http://docs.stg.ptah.super.com/docs/images/</loc>
+  </url>
+  
+  <url>
     <loc>http://docs.stg.ptah.super.com/docs/payments/</loc>
   </url>
   
@@ -74,6 +78,10 @@
   
   <url>
     <loc>http://docs.stg.ptah.super.com/docs/fonts/</loc>
+  </url>
+  
+  <url>
+    <loc>http://docs.stg.ptah.super.com/docs/videos/</loc>
   </url>
   
 </urlset>

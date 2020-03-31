@@ -24,7 +24,7 @@ On hover over a Block or an Element, you can view an icon to set properties at t
 <link rel="stylesheet" href="/book.min.343270af3f7a01683d94762f9b671c6eb940933f3238c66b6bfc99821e7a3131.css" integrity="sha256-NDJwrz96AWg9lHYvm2ccbrlAkz8yOMZra/yZgh56MTE=">
 
 
-<script defer src="/search.min.36882c5f03d79a93df5665378db58165a86934ecbc0182339881c79290cf80a2.js" integrity="sha256-NogsXwPXmpPfVmU3jbWBZahpNOy8AYIzmIHHkpDPgKI="></script>
+<script defer src="/search.min.c0ee12aa3aa67cdc53499a1ad440c5f26b89dec1e504c95fffca2685f9588253.js" integrity="sha256-wO4SqjqmfNxTSZoa1EDF8muJ3sHlBMlf/8omhflYglM="></script>
 
 <script type="application/javascript">
 var doNotTrack = false;
@@ -86,6 +86,8 @@ https://github.com/alex-shpak/hugo-book
 <li><a href="/docs/size/">Size and spacing</a></li>
 <li><a href="/docs/align/">Content alignment</a></li>
 <li><a href="/docs/background/">Background</a></li>
+<li><a href="/docs/images/">Images</a></li>
+<li><a href="/docs/videos/">Videos</a></li>
 <li><a href="/docs/fonts/">Fonts</a></li>
 </ul></li>
 <li><strong>SITE SETTINGS</strong>
@@ -169,7 +171,7 @@ https://github.com/alex-shpak/hugo-book
 <hr />
 
 <blockquote class="book-hint ">
-  To add an element to the section, hover over a block where you want to add a new element and click on the Add element icon in Preview Area.
+  To add an element to the section, hover over a block where you want to add a new element and click on the <em>Add element icon</em> in Preview Area.
 </blockquote>
 
 
@@ -178,7 +180,7 @@ https://github.com/alex-shpak/hugo-book
 <hr />
 
 <blockquote class="book-hint ">
-  To view and customise an element properties, select the element by click and press the Edit icon on Preview Area or just double click on the element.
+  To view and customise an element properties, select the element by click and press the <em>Edit icon</em> on Preview Area or just double click on the element.
 </blockquote>
 
 
@@ -197,7 +199,11 @@ https://github.com/alex-shpak/hugo-book
     TEXT
   </label>
   <div class="book-tabs-content markdown-inner">
-    <ul>
+    <p><a href="/docs/fonts">To adjust a page fonts, use the page settings.</a></p>
+
+<p><strong>Text properties:</strong></p>
+
+<ul>
 <li><strong>Size</strong> - the font size</li>
 <li><strong>Line</strong> - the line height (the vertical distance between lines of text)</li>
 <li><strong>Color</strong> - the text color</li>
@@ -205,7 +211,7 @@ https://github.com/alex-shpak/hugo-book
 <li><strong>Link Hover Color</strong> - the color of the link on hover</li>
 <li><strong>Underline</strong> - apply a word underline</li>
 <li><strong>Underline Hover</strong> - show a word underline on hover</li>
-<li><strong>Open new window</strong> - use a new browser tab to open a link on click</li>
+<li><strong>Open new window</strong> - use a new browser tab to open a link</li>
 </ul>
 
 <p><a href="/docs/size/">Learn about spacing and how to edit indents for the element</a></p>
@@ -222,7 +228,11 @@ https://github.com/alex-shpak/hugo-book
     ICON WITH TEXT
   </label>
   <div class="book-tabs-content markdown-inner">
-    <ul>
+    <p><a href="/docs/fonts">To adjust a page fonts, use the page settings.</a></p>
+
+<p><strong>Text and icon properties:</strong></p>
+
+<ul>
 <li><strong>Size</strong> - the font size</li>
 <li><strong>Line</strong> - the line height (the vertical distance between lines of text)</li>
 <li><strong>Color</strong> - the text color</li>
@@ -247,6 +257,46 @@ https://github.com/alex-shpak/hugo-book
 <h3 id="buttons"><strong>Buttons</strong></h3>
 
 <hr />
+
+<p>Call-to-action buttons are some of the most significant elements on your landing page.</p>
+
+<p>A call-to-action button is a piece of text or an image, that tells your audience what you want them to do next.
+For instance, after clicking on the call-to-action button it scroll down to the sign up form section.</p>
+
+<blockquote class="book-hint ">
+  <p>To add an action to the button, first of all, select the button in Preview Area and click on the <em>Link icon</em> at the top-left corner.</p>
+
+<p>In the opened tooltip select one of the actions:</p>
+
+<ul>
+<li><strong>Open URL</strong> - while clicking on the button, user is redirected to the specified web page.
+
+<ul>
+<li>Enter the link in the <em>URL field</em>.</li>
+<li>Enable the <em>Open in new window</em>, to use a new browser tab to open a link.</li>
+<li>Click <em>Done</em>.</li>
+</ul></li>
+<li><strong>Open video popup</strong> - while clicking on the button, the video popup is displayed.
+
+<ul>
+<li>Enter the link to the YouTube video resource in the <em>Video field</em>.</li>
+<li>Click <em>Done</em>.</li>
+</ul></li>
+<li><strong>Scroll into section</strong> - while clicking on the button, the landing page is scrolled to the particular section.
+
+<ul>
+<li>Choose which section to scroll to.</li>
+<li>Select a scroll behaviour: Auto, Instant, Smooth.</li>
+<li>Click <em>Done</em>.</li>
+</ul></li>
+</ul>
+
+</blockquote>
+
+
+<p>TODO image интерфейс попап с настройками события для кнопки с выбранными значениями: Action - Scroll into section, Scroll to - FromCenterFantasy, Scroll behavior - Smooth</p>
+
+<p><strong>Button properties:</strong></p>
 
 <ul>
 <li><strong>Placeholder text</strong> - the placeholder text</li>
@@ -278,14 +328,18 @@ https://github.com/alex-shpak/hugo-book
 
 <hr />
 
+<p>Social icons are links to your social accounts. Use the <a href="/docs/seo/#social-media-links">Ptah integration with Open Graph</a> to set up displaying in social posts.</p>
+
+<p><strong>Social networks properties:</strong></p>
+
 <ul>
-<li><strong>Icons width</strong> - the social icon size</li>
-<li><strong>Icons color</strong> - the social icon color</li>
+<li><strong>Icons width</strong> - the social network icon size</li>
+<li><strong>Icons color</strong> - the social network icon color</li>
 <li><strong>Background color</strong> - the background color of the icons&rsquo; element</li>
-<li><strong>Open links in new window</strong> - use a new browser tab to open a link on click</li>
+<li><strong>Open links in new window</strong> - use a new browser tab to open a link</li>
 </ul>
 
-<p>The list of socials&rsquo; names and links:</p>
+<p>The list of social networks&rsquo; names and links:</p>
 
 <ul>
 <li><strong>Facebook</strong></li>
@@ -297,6 +351,13 @@ https://github.com/alex-shpak/hugo-book
 <li><strong>Kickstarter</strong></li>
 <li><strong>Wechat</strong></li>
 </ul>
+
+<blockquote class="book-hint ">
+  To add a social link, click on the Link icon to the right of the network name. In the opened tooltip enter the network link and click <em>Close</em>.
+</blockquote>
+
+
+<p>TODO image интерфейс с попапом с введенной ссылкой на соцсеть</p>
 
 <p><a href="/docs/size/">Learn about spacing and how to edit indents for the element</a></p>
 
@@ -329,8 +390,14 @@ https://github.com/alex-shpak/hugo-book
   </label>
   <div class="book-tabs-content markdown-inner">
     <ul>
-<li><strong>Image URL</strong> - the image file or the link to the image resource</li>
-<li><strong>Stretch to fit</strong> - display the image at the full height of the element</li>
+<li><p><strong>Image URL</strong> - the image file or the link to the image resource</p>
+
+<p><strong>To upload an image from your computer:</strong> drag and drop an image to the Image upload button or to the specific position on the page in Preview Area.</p>
+
+<p><strong>To use an external link to the image:</strong> enter the link to the image file
+TODO animation перетаскивание картинки</p></li>
+
+<li><p><strong>Stretch to fit</strong> - display the image at the full height of the element</p></li>
 </ul>
 
 <p><a href="/docs/size/">Learn about spacing and how to edit indents for the element</a></p>
@@ -451,7 +518,7 @@ https://github.com/alex-shpak/hugo-book
     SPACER
   </label>
   <div class="book-tabs-content markdown-inner">
-    <p>You can edit the spacer size using the transformation tool.</p>
+    <p>You can edit a spacer size using the transformation tool.</p>
 
 <p>TODO image интерфейс или иллюстрация с настройками какие за что отвечают
 <figure>
@@ -466,7 +533,7 @@ https://github.com/alex-shpak/hugo-book
   </label>
   <div class="book-tabs-content markdown-inner">
     <ul>
-<li><strong>Set timer</strong> - select the ending date</li>
+<li><strong>Set timer</strong> - the ending date</li>
 <li><strong>Time zone</strong> - the UTC time zone</li>
 <li><strong>Labels</strong> - display the labels: Days, Hours, Minutes, Seconds</li>
 <li><strong>Position</strong> - the labels position</li>
