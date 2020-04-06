@@ -140,12 +140,14 @@ Styling a button with images Style your buttons with a background image and an i
     
     <item>
       <title>Marketing</title>
-      <link>http://docs.stg.ptah.super.com/docs/optimization/</link>
+      <link>http://docs.stg.ptah.super.com/docs/marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docs.stg.ptah.super.com/docs/optimization/</guid>
-      <description>How to create especially effective page? You can create your entire website with a drag-and-drop builder and also include custom HTML and CSS. Ptah will enable you to visually customize every single aspect of your website.
-Purposes to have a game landing  Link to game publishing platforms like Steam Showcase your game&amp;rsquo;s trailer, features, and screenshots Capture newsletter subscribers Link to your social media accounts Host your press kit Community forums Pre-order page Какие еще есть цели: ?</description>
+      <guid>http://docs.stg.ptah.super.com/docs/marketing/</guid>
+      <description>How to create especially effective page? Define a goal of your landing page Ptah will enable you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
+Ptah Builder offers 5 common purposes to have a game landing page using groups of ready-to-use templates:
+🎮 Game selling
+Design templates contain required sections for in-game keys, a link to the game publishing platforms like Steam or GOG to purchase a game.</description>
     </item>
     
     <item>
@@ -198,9 +200,9 @@ TODO image иллюстрация заменить картинку на так�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/fonts/</guid>
-      <description>Typography The landing page design must be on-brand. It&amp;rsquo;s recommended to use from 1 to 3 typefaces. If you have more than 3 typefaces it can make your page chaotic.
-Once you have chosen the right typeface, typography makes your landing page appealing and readable.
-Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.</description>
+      <description>Typography The landing page design must be on-brand. Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
+Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
+To adjust a page fonts, click the Settings icon on the top menu. Choose the Fonts tab and set and save fonts from Google Fonts for headlines, text and buttons.</description>
     </item>
     
     <item>
