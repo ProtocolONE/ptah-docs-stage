@@ -79,8 +79,8 @@ Click the Settings icon on the top menu. Choose the Integrations tab and click t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
-      <description>Content alignment Ptah Sections is designed for responsive landing pages. You can customise the alignment of elements in a section&amp;rsquo;s blocks.
-To set the alignment of a block&amp;rsquo;s content open the block properties by hover over it on Preview Area and click the Settings icon at the top-left.  Flow elements into a row or column To display elements of a block in one line click the Row Direction icon.</description>
+      <description>Content alignment Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section&amp;rsquo;s blocks.
+To set the alignment of the block&amp;rsquo;s content open the block properties by hovering over it in the Preview Area and click the Settings icon at the top-left.  Flow elements into a row or column To display elements of a block in a line click the Row Direction icon.</description>
     </item>
     
     <item>
@@ -89,21 +89,21 @@ To set the alignment of a block&amp;rsquo;s content open the block properties by
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/cookies/</guid>
-      <description>Cookies Your web page has to follow with GDPR and you can set up some options on Ptah Settings.
+      <description>Cookies Your web page has to follow the GDPR and you can set up some options in Ptah Settings.
 The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.  TODO image иллюстрация как выглядит нотификация на сайте
 To inform your visitor that you are using Cookies and receive their approval, click the Settings icon on the top menu and choose the Cookies tab.</description>
     </item>
     
     <item>
-      <title>Customise CSS and Javascript</title>
+      <title>Customise CSS and JavaScript</title>
       <link>http://docs.stg.ptah.super.com/docs/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/customization/</guid>
-      <description>Customise your styles In Ptah Builder you can customise any web element of your landing page.
+      <description>Customise the look and feel of your landing page In Ptah Builder you can customise any web element of your landing page.
 Ptah makes it easy to edit page content without coding
-Moreover, you can add custom styles using the CSS editor or embed an external scripts using the Javascript editor in Ptah Settings:
- To add a custom code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add Js Scripts tab).</description>
+Moreover, you can add custom styles using the CSS editor and embed custom scripts using the JavaScript editor in Ptah Settings:
+ To add custom JS or CSS code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add JS Scripts tab).</description>
     </item>
     
     <item>
@@ -133,9 +133,9 @@ On hover over a Block or an Element, you can view an icon to set properties at t
       
       <guid>http://docs.stg.ptah.super.com/docs/images/</guid>
       <description>Images  Placing an image to a section Styling a button with images Background image Recommended image parameters  Placing an image to a section Images are crucial to your landing page design.
-To upload an image from your computer or to link to an external resource of the image follow this instruction.
+Follow this instruction to upload an image from your computer or to link to an external resource.
 TODO интерфейс с примером картинки, например продукты
-Styling a button with images Style your buttons with a background image and an image on hover.</description>
+Styling a button with images Style your buttons with a background or a hover image.</description>
     </item>
     
     <item>
@@ -144,10 +144,10 @@ Styling a button with images Style your buttons with a background image and an i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/marketing/</guid>
-      <description>How to create especially effective page? Define a goal of your landing page Ptah will enable you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
-Ptah Builder offers 5 common purposes to have a game landing page using groups of ready-to-use templates:
-🎮 Game selling
-Design templates contain required sections for in-game keys, a link to the game publishing platforms like Steam or GOG to purchase a game.</description>
+      <description>How to create a good landing page for your game? Define the goal for your landing page Ptah allows you to visually customize every single aspect of your website with a drag-and-drop builder and also include custom HTML and CSS.
+Ptah Builder offers 5 common goals for your landing pages built-in as ready-to-use templates:
+🎮 Sell your game
+The templates contain required sections to sell game keys, a link to game publishing platforms like Steam or GOG.</description>
     </item>
     
     <item>
@@ -202,7 +202,7 @@ As follows, you have to optimize your content by already knowing what words and 
       <guid>http://docs.stg.ptah.super.com/docs/fonts/</guid>
       <description>Typography The landing page design must be on-brand. Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
 Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
-To adjust a page fonts, click the Settings icon on the top menu. Choose the Fonts tab and set and save fonts from Google Fonts for headlines, text and buttons.</description>
+To adjust page fonts, click the Settings icon on the top menu. Select the Fonts tab then choose the desired fonts for headlines, text and buttons from the Google Fonts library.</description>
     </item>
     
     <item>
@@ -213,7 +213,7 @@ To adjust a page fonts, click the Settings icon on the top menu. Choose the Font
       <guid>http://docs.stg.ptah.super.com/docs/videos/</guid>
       <description>Videos  Embed a video to a section Fullscreen video background Recommended video parameters  Embed a video to a section Learn how to embed a YouTube video or any MP4 file.
 TODO интерфейс с примером видео с YouTube в первой секции после хедера
-Fullscreen video background To add a dynamic visual effect to your landing page, place a background video of your game. Background video plays on loop without sound.</description>
+Fullscreen video background To add dynamic effects to your landing page, have a video of your game as a website background. Background video plays in a loop without sound.</description>
     </item>
     
   </channel>
