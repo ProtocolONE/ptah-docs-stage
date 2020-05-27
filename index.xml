@@ -113,7 +113,7 @@ Moreover, you can add custom styles using the CSS editor and embed custom script
       
       <guid>http://docs.stg.ptah.super.com/docs/edit-section/</guid>
       <description>On-page editing The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
-On hover over a Block or an Element, you can view an icon to set properties at the top-left corner.  TODO image интерфейс или иллюстрация с этими иконками для секции, блока и элемента   All of the elements in Preview Area are draggable.</description>
+Clicking a Block or an Element in Preview Area, you can view an icon to set properties at the top-left corner.    All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.</description>
     </item>
     
     <item>
