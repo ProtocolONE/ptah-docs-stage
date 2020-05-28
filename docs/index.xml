@@ -134,8 +134,8 @@ Clicking a Block or an Element in Preview Area, you can view an icon to set prop
       <guid>http://docs.stg.ptah.super.com/docs/images/</guid>
       <description>Images  Placing an image to a section Styling a button with images Background image Recommended image parameters  Placing an image to a section Images are crucial to your landing page design.
 Follow this instruction to upload an image from your computer or to link to an external resource.
-TODO интерфейс с примером картинки, например продукты
-Styling a button with images Style your buttons with a background or a hover image.</description>
+Styling a button with images Style your buttons with a background or a hover image.
+Upload images in Settings Panel to style the buttons.</description>
     </item>
     
     <item>
@@ -202,7 +202,7 @@ As follows, you have to optimize your content by already knowing what words and 
       <guid>http://docs.stg.ptah.super.com/docs/fonts-and-colors/</guid>
       <description>Typography The landing page design must be on-brand. Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
 Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
-To adjust page fonts, click the Settings icon on the top menu. Select the Fonts tab then choose the desired fonts for headlines, text and buttons from the Google Fonts library.</description>
+To adjust page fonts, open Fonts on the Settings Panel. Choose the desired fonts for headlines, text and buttons from the Google Fonts library.</description>
     </item>
     
     <item>
@@ -212,8 +212,8 @@ To adjust page fonts, click the Settings icon on the top menu. Select the Fonts 
       
       <guid>http://docs.stg.ptah.super.com/docs/videos/</guid>
       <description>Videos  Embed a video to a section Fullscreen video background Recommended video parameters  Embed a video to a section Learn how to embed a YouTube video or any MP4 file.
-TODO интерфейс с примером видео с YouTube в первой секции после хедера
-Fullscreen video background To add dynamic effects to your landing page, have a video of your game as a website background. Background video plays in a loop without sound.</description>
+Fullscreen video background To add dynamic effects to your landing page, have a video of your game as a website background. Background video plays in a loop without sound.
+Recommended video parameters  Name: only use letters, numbers, underscores, and hyphens Format: mp4 container, encoded with H.</description>
     </item>
     
   </channel>
