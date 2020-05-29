@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://docs.stg.ptah.super.com/docs/preview-and-publish/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://docs.stg.ptah.super.com/docs/release/</loc>
     <priority>0</priority>
   </url>
