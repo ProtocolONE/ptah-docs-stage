@@ -78,7 +78,7 @@ To start, you need a Google Analytics account and your tracking ID.
       <guid>http://docs.stg.ptah.super.com/docs/integrations-mailchimp/</guid>
       <description>How to use Mailchimp on your landing page Ptah offers a seamless integration to Mailchimp for you to easily create an email subscription form on your landing page.
 To start, you need to authorize Mailchimp to connect to your landing page in Ptah Builder.
-Open Integrations &amp;gt; Mailchimp icon.
+Open Integrations &amp;gt; Mailchimp.
  Enter your Mailchimp login and password to log into Mailchimp. Approve Mailchimp to connect your landing page.     Select a Mailchimp audience Once you&amp;rsquo;ve synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.</description>
     </item>
     
@@ -89,7 +89,7 @@ Open Integrations &amp;gt; Mailchimp icon.
       
       <guid>http://docs.stg.ptah.super.com/docs/align/</guid>
       <description>Content alignment Ptah Sections are designed for responsive landing pages. You can customise the alignment of elements in section&amp;rsquo;s blocks.
-To set the alignment of the block&amp;rsquo;s content open the block properties by hovering over it in the Preview Area and click the Settings icon at the top-left.  Flow elements into a row or column To display elements of a block in a line click the Row Direction icon.</description>
+ To set the alignment of the block&amp;rsquo;s content, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu. Click the Settings icon at the block&amp;rsquo;s menu. Adjust indents in Settings Panel.   Flow elements into a row or column  To display elements of a block in a line, hover over the block in the Preview Area and click the Settings icon at the block&amp;rsquo;s menu.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@ To set the alignment of the block&amp;rsquo;s content open the block properties 
       
       <guid>http://docs.stg.ptah.super.com/docs/cookies/</guid>
       <description>Cookies Your web page has to follow the GDPR and you can set up some options in Ptah Settings.
-The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.  To inform your visitor that you are using Cookies and receive their approval, click the Settings icon on the top menu and choose the Cookies tab.</description>
+The General Data Protection Regulation (GDPR) is the European privacy law that regulates how individuals and organizations may collect, use, and retain personal data.   To inform your visitor that you are using Cookies and receive their approval, open the panel SEO. Enable the Use Cookies. Upload a Cookie Policy PDF file Click the Save button and view the result in Preview Mode.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@ The General Data Protection Regulation (GDPR) is the European privacy law that r
       <description>Customise the look and feel of your landing page In Ptah Builder you can customise any web element of your landing page.
 Ptah makes it easy to edit page content without coding
 Moreover, you can add custom styles using the CSS editor and embed custom scripts using the JavaScript editor in Ptah Settings:
- To add custom JS or CSS code, click the Settings icon on the top menu and choose the Add custom CSS tab (or Add JS Scripts tab).</description>
+ To add custom JS or CSS code, open the panel Code Injection. In the editor, enter your code (CSS or JavaScript).</description>
     </item>
     
     <item>
@@ -197,7 +197,7 @@ As follows, you have to optimize your content by already knowing what words and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
-      <description>Spacing on the page You can create extra space around elements to helps your users focus on the content, what may increases conversions.
+      <description>Spacing on the page You can create extra space around elements to help your users focus on the content, what may increases conversions.
   The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
   Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
     </item>
@@ -210,7 +210,7 @@ As follows, you have to optimize your content by already knowing what words and 
       <guid>http://docs.stg.ptah.super.com/docs/fonts-and-colors/</guid>
       <description>Typography The landing page design must be on-brand. Once you have chosen the right typeface and colors, typography makes your landing page appealing and readable.
 Set up fonts Ptah has a built-in Google Fonts library which offers about 1000 fonts to choose from for all your text and button needs.
-To adjust page fonts, open Fonts on the Settings Panel. Choose the desired fonts for headlines, text and buttons from the Google Fonts library.</description>
+ To adjust page fonts, open Fonts on Settings Panel. Choose the desired fonts for headline, text and button from the Google Fonts library.</description>
     </item>
     
     <item>
