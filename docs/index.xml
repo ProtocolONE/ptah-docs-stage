@@ -79,7 +79,7 @@ To start, you need a Google Analytics account and your tracking ID.
       <description>How to use Mailchimp on your landing page Ptah offers a seamless integration to Mailchimp for you to easily create an email subscription form on your landing page.
 To start, you need to authorize Mailchimp to connect to your landing page in Ptah Builder.
 Open Integrations &amp;gt; Mailchimp.
- Enter your Mailchimp login and password to log into Mailchimp. Approve Mailchimp to connect your landing page.     Select a Mailchimp audience Once you&amp;rsquo;ve synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.</description>
+ Enter your Mailchimp login and password to log into Mailchimp. Approve Mailchimp to connect your landing page.       Select a Mailchimp audience Once you&amp;rsquo;ve synced with Mailchimp, you can select one of the audiences to store the emails you collect on your landing page.</description>
     </item>
     
     <item>
@@ -121,7 +121,7 @@ Moreover, you can add custom styles using the CSS editor and embed custom script
       
       <guid>http://docs.stg.ptah.super.com/docs/edit-section/</guid>
       <description>On-page editing The Ptah Builder makes editing pretty intuitive. You can change content and its properties right on the page in Preview Area and everything will be automatically saved.
-Clicking a block or an element in Preview Area, you can view icons to adjust properties and other functionality.    All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.</description>
+Clicking a block or an element in Preview Area, you can view icons to adjust properties and other functionality.      All of the elements in Preview Area are draggable. If you need to rearrange elements inside of the block, click and hold at the element, then drag and drop the element to the preferred position.</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@ Ptah lets you start your design from a completely blank canvas, so there’s no 
       <description>SEO checklist for your gaming landing page The best SEO strategies help you to increase organic traffic and rankings in search engines.
 First of all, you should always keep in touch that your website is designed for humans who use search engines.
 As follows, you have to optimize your content by already knowing what words and phrases your audience is searching for.
-  Ptah helps you to optimize landing page perfectly.</description>
+    Ptah helps you to optimize landing page perfectly.</description>
     </item>
     
     <item>
@@ -198,8 +198,8 @@ As follows, you have to optimize your content by already knowing what words and 
       
       <guid>http://docs.stg.ptah.super.com/docs/size/</guid>
       <description>Spacing on the page You can create extra space around elements to help your users focus on the content, what may increases conversions.
-  The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
-  Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
+    The best practice is spacing and sizing within ratios. Ptah pre-designed sections keep spacing consistent. This is how one of Ptah sections with default spacing looks like:
+    Any element on your page can have spacing that immediately surrounds the element within the border (padding) and outside the border (margin).</description>
     </item>
     
     <item>
