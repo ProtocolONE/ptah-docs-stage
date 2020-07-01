@@ -169,6 +169,17 @@ Try now See how the Checkout Form looks and feels BUTTON Test Payment  User flow
     </item>
     
     <item>
+      <title>Publish</title>
+      <link>http://docs.stg.ptah.super.com/docs/publish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.ptah.super.com/docs/publish/</guid>
+      <description>Code export Export a source code helps you to serve a landing page on your server.
+To download a source code of your landing page:
+ Click the Publish button at the top menu, wait just few seconds for the pages to archive and download. Unzip the downloaded file and move a folder to your server.       Next steps   Search Engine Optimization Connect to Google Analytics  Questions?</description>
+    </item>
+    
+    <item>
       <title>Quick Start</title>
       <link>http://docs.stg.ptah.super.com/docs/quick-start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
